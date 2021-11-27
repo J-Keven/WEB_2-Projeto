@@ -1,0 +1,13 @@
+node_modules
+
+ormconfig.json
+
+
+temp
+!temp/uploads/.gitkeep
+
+dist
+
+*.txt
+*.vscode
+.vscode/*
